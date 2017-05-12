@@ -1,5 +1,5 @@
 library:
-  image: arunjoh/docker-test:0.3.0
+  image: arunjoh/cmad-demo:0.3.0
   links:
     - mongodb:mongo
   ports:
