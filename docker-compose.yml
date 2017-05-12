@@ -1,5 +1,5 @@
 library:
-  image: arunjoh/cmad-demo:0.3.0
+  image: arunjoh/cmad-demo:staging
   links:
     - mongodb:mongo
   ports:
